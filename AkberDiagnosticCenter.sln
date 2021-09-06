@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkberDiagnosticCenter", "AkberDiagnosticCenter\AkberDiagnosticCenter.csproj", "{1B11F191-B018-4CDC-B1A2-720E92B64F84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamrataKalyani", "D:\angular\Diognastic\06-09-2021_Diognastic\NamrataKalyani\NamrataKalyani\NamrataKalyani.csproj", "{C93BB974-E3A9-46B6-B6D7-475A5FA943FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1B11F191-B018-4CDC-B1A2-720E92B64F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B11F191-B018-4CDC-B1A2-720E92B64F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B11F191-B018-4CDC-B1A2-720E92B64F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93BB974-E3A9-46B6-B6D7-475A5FA943FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93BB974-E3A9-46B6-B6D7-475A5FA943FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93BB974-E3A9-46B6-B6D7-475A5FA943FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93BB974-E3A9-46B6-B6D7-475A5FA943FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
